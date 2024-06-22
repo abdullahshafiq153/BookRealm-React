@@ -9,7 +9,6 @@ BookRealm is an online library platform where users can create an account, login
 - [Getting Started](#getting-started)
   - [Installation](#installation)
   - [Running the Project](#running-the-project)
-- [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -49,27 +48,6 @@ BookRealm is an online library platform where users can create an account, login
     ```
     http://localhost:3000
     ```
-
-## Project Structure
-```
-BookRealm-React/
-├── public/                     # Static assets
-├── src/                        # Source files
-│   ├── assets/                 # Images, icons, etc.
-│   ├── components/             # Reusable UI components
-│   ├── pages/                  # Page components
-│   ├── services/               # API service calls
-│   ├── styles/                 # CSS stylesheets
-│   ├── App.jsx                 # Main app component
-│   ├── main.jsx                # Entry point
-│   └── routes.jsx              # Route definitions
-├── .gitignore                  # Git ignore file
-├── index.html                  # Main HTML file
-├── package.json                # NPM dependencies and scripts
-├── README.md                   # Project readme file
-├── vite.config.js              # Vite configuration file
-└── package-lock.json           # Lockfile for npm
-```
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
